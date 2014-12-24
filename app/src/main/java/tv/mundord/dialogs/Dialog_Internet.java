@@ -1,4 +1,4 @@
-package com.mundord.dialogs;
+package tv.mundord.dialogs;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 
-import com.mundord.R;
+import tv.mundord.R;
 
 /**
  * Created by jonathan on 02/12/2014.

@@ -1,4 +1,4 @@
-package com.mundord.activities;
+package tv.mundord.activities;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -12,7 +12,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
 
-import com.mundord.R;
+import tv.mundord.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

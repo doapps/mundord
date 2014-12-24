@@ -1,8 +1,5 @@
-package com.mundord.activities;
+package tv.mundord.activities;
 
-import android.content.Intent;
-import android.graphics.Bitmap;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.KeyEvent;
@@ -10,19 +7,12 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import com.mundord.R;
-import com.mundord.dialogs.Dialog_Internet;
-import com.mundord.utils.InternetUtil;
-
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.Locale;
-
-import static java.lang.System.currentTimeMillis;
+import tv.mundord.R;
+import tv.mundord.dialogs.Dialog_Internet;
+import tv.mundord.utils.InternetUtil;
 
 /**
  * Created by jonathan on 22/12/2014.

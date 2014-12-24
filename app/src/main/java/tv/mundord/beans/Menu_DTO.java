@@ -1,4 +1,4 @@
-package com.mundord.beans;
+package tv.mundord.beans;
 
 /**
  * Created by jonathan on 18/12/2014.

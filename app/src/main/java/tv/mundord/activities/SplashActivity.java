@@ -1,11 +1,11 @@
-package com.mundord.activities;
+package tv.mundord.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
 
-import com.mundord.R;
+import tv.mundord.R;
 
 /**
  * Created by jonathan on 10/12/2014.

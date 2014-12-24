@@ -1,7 +1,7 @@
-package com.mundord.applications;
+package tv.mundord.applications;
 
-import com.mundord.R;
-import com.mundord.activities.MainActivity;
+import tv.mundord.R;
+import tv.mundord.activities.MainActivity;
 import com.parse.Parse;
 import com.parse.ParseACL;
 import com.parse.ParseInstallation;

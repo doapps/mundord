@@ -1,15 +1,12 @@
-package com.mundord.broadcast;
+package tv.mundord.broadcast;
 
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-import android.widget.Toast;
 
-import com.mundord.R;
-import com.mundord.activities.MainActivity;
-import com.mundord.activities.NoticeActivity;
-import com.mundord.fragments.HomeFragment;
+import tv.mundord.activities.NoticeActivity;
+
 import com.parse.ParsePushBroadcastReceiver;
 
 import org.json.JSONException;

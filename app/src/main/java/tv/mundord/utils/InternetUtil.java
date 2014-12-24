@@ -1,4 +1,4 @@
-package com.mundord.utils;
+package tv.mundord.utils;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

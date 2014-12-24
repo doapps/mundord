@@ -1,4 +1,4 @@
-package com.mundord.fragments;
+package tv.mundord.fragments;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
 
-import com.mundord.R;
+import tv.mundord.R;
 
 /**
  * Created by jonathan on 10/12/2014.

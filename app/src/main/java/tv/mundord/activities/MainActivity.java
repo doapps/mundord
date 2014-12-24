@@ -1,4 +1,4 @@
-package com.mundord.activities;
+package tv.mundord.activities;
 
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
@@ -15,12 +15,11 @@ import android.support.v4.widget.DrawerLayout;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import com.mundord.dialogs.Dialog_Internet;
-import com.mundord.fragments.HomeFragment;
-import com.mundord.fragments.TestFragment;
+import tv.mundord.dialogs.Dialog_Internet;
+import tv.mundord.fragments.HomeFragment;
 
-import com.mundord.R;
-import com.mundord.utils.InternetUtil;
+import tv.mundord.R;
+import tv.mundord.utils.InternetUtil;
 
 
 public class MainActivity extends ActionBarActivity

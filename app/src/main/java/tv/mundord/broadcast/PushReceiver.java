@@ -1,4 +1,4 @@
-package com.mundord.broadcast;
+package tv.mundord.broadcast;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
