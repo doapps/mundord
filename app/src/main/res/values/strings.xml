@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MundoRd</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Dialog Internet -->
+    <string name="internet_message">Revise su conexión a internet!</string>
+
+    <!-- Label Menu -->
+    <string name="label_home">Inicio</string>
+    <string name="label_videos">Videos</string>
+    <string name="label_photos">Fotos</string>
+    <string name="label_music_videos">Videos Musicales</string>
+    <string name="label_latest_songs">Últimas Canciones</string>
+    <string name="label_contact_us">Contáctanos</string>
+
+    <!-- URL sites -->
+    <string name="home">http://www.mundord.tv/</string>
+    <string name="videos">http://www.mundord.tv/search/label/video</string>
+    <string name="photos">http://www.mundord.tv/search/label/fotos</string>
+    <string name="music_videos">http://www.mundord.tv/search/label/videosmusicales</string>
+    <string name="latest_songs">http://www.mundord.tv/search/label/musicanueva</string>
+    <string name="contact_us">http://www.mundord.tv/2013/12/contactanos.html</string>
+    
+    
+    <!-- ParseKey -->
+    <string name="application_id">X9M9ZeJQROie7AGPqlZHWEiJF9kV9weudwJr4ME2</string>
+    <string name="client_key">xmaDkqEPSmKVcFv29y6HYpA0CWz9GWm9urVBrsyq</string>
+
+    <!-- Admob Key -->
+    <string name="admob_key">ca-app-pub-3838568767635186/2474761328</string>
+    <string name="admob_interstitial">ca-app-pub-3838568767635186/3951494527</string>
+</resources>
